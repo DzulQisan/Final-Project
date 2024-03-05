@@ -1,0 +1,11 @@
+Analisis dampak jumlah kamar tidur dan kamar mandi terhadap harga rumah.
+===========Dataset
+https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
+===========Real Coder
+https://colab.research.google.com/drive/1KKLtjO0Tsh4riL2Ah-hlHiHdKDMbMzIn#scrollTo=KoKIHBhOx_SC
+===========Sharing
+https://colab.research.google.com/drive/1KKLtjO0Tsh4riL2Ah-hlHiHdKDMbMzIn?usp=sharing
+===========
+https://bit.ly/GuidelineFinalProjectDS23B 
+==========
+https://docs.google.com/forms/u/0/d/e/1FAIpQLSc4vAK7EatYCR9RfLAxL54z6tW8WrNbteqlu2KF9f-ttw-FGQ/formResponse

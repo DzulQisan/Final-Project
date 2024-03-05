@@ -1,0 +1,26 @@
+# ---- EDA + INSIGHT ----
+pandas
+numpy
+matplotlib
+seaborn
+plotly.express
+plotly.graph_objects
+plotly.subplots
+
+# ---- DATA PREP + REGRESSION ----
+sklearn.model_selection
+statsmodels.stats.outliers_influence
+statsmodels.tools.tools
+sklearn.linear_model
+sklearn.preprocessing
+statsmodels.api
+sklearn.metrics
+
+# ---- DATA PREP + CLASSIFICATION ----
+sklearn.preprocessing
+imblearn.over_sampling
+imblearn.combine
+sklearn.neighbors
+sklearn.tree
+sklearn.ensemble
+sklearn.model_selection
